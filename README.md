@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá! 👋
 
-<!--
-**geanplx/geanplx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Análise e Desenvolvimento de Sistemas (ADS), com interesse em Análise de Dados e desenvolvimento de soluções utilizando tecnologia.
 
-Here are some ideas to get you started:
+Atualmente, estou desenvolvendo meus conhecimentos em Python, SQL e bancos de dados, buscando aprender a analisar informações, identificar padrões e transformar dados em insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou em busca de uma oportunidade de estágio na área de tecnologia, onde possa aplicar meus conhecimentos, aprender com profissionais da área e crescer profissionalmente.
+
+### Tecnologias em aprendizado
+
+- Python
+- SQL
+- SQLite
+- Excel
