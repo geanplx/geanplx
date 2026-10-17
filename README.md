@@ -3,7 +3,7 @@
 
 # Gean Lacerda
 
-### Estudante de ADS · Análise de Dados · Python & SQL
+### `Desenvolvedor em formação` · `Data Analytics` · `Python & SQL`
 
 Buscando uma oportunidade de estágio em tecnologia para aprender,<br>
 desenvolver projetos práticos e transformar dados em informação.
