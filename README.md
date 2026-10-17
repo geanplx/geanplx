@@ -102,18 +102,22 @@ desenvolver projetos práticos e transformar dados em informação.
 
 ### Vamos nos conectar?
 
-<a href="https://www.linkedin.com/in/gean-pablo-lacerda-sousa-b60674379">
-  <img src="https://img.shields.io/badge/LinkedIn-252A34?style=for-the-badge&logo=linkedin&logoColor=789BCE" alt="LinkedIn"/>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/gean-pablo-lacerda-sousa-b60674379" title="LinkedIn">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="36" height="36" alt="LinkedIn"/>
 </a>
-<a href="https://wa.me/559991481435">
-  <img src="https://img.shields.io/badge/WhatsApp-252A34?style=for-the-badge&logo=whatsapp&logoColor=7ED6A5" alt="WhatsApp"/>
+&nbsp;&nbsp;&nbsp;
+<a href="https://wa.me/559991481435" title="WhatsApp">
+  <img src="https://cdn.simpleicons.org/whatsapp/7ED6A5" width="36" height="36" alt="WhatsApp"/>
 </a>
-<a href="https://www.instagram.com/geanplx/">
-  <img src="https://img.shields.io/badge/Instagram-252A34?style=for-the-badge&logo=instagram&logoColor=E8A0BF" alt="Instagram"/>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/geanplx/" title="Instagram">
+  <img src="https://cdn.simpleicons.org/instagram/E8A0BF" width="36" height="36" alt="Instagram"/>
 </a>
-<a href="https://geanplx.github.io/gean.film-portfolio/#/">
-  <img src="https://img.shields.io/badge/Portf%C3%B3lio-252A34?style=for-the-badge&logo=googlechrome&logoColor=8BA4D9" alt="Portfólio"/>
-</a>
+
+</div>
 
 <br><br>
 
