@@ -105,6 +105,9 @@ desenvolver projetos práticos e transformar dados em informação.
 <a href="https://www.linkedin.com/in/gean-pablo-lacerda-sousa-b60674379">
   <img src="https://img.shields.io/badge/LinkedIn-252A34?style=for-the-badge&logo=linkedin&logoColor=789BCE" alt="LinkedIn"/>
 </a>
+<a href="https://wa.me/559991481435">
+  <img src="https://img.shields.io/badge/WhatsApp-252A34?style=for-the-badge&logo=whatsapp&logoColor=7ED6A5" alt="WhatsApp"/>
+</a>
 <a href="https://www.instagram.com/geanplx/">
   <img src="https://img.shields.io/badge/Instagram-252A34?style=for-the-badge&logo=instagram&logoColor=E8A0BF" alt="Instagram"/>
 </a>
