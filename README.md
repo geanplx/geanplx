@@ -24,12 +24,12 @@ desenvolver projetos práticos e transformar dados em informação.
 <tr>
 <td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=geanplx&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8BA4D9&icon_color=8BA4D9&text_color=C9D1D9&rank_icon=github&include_all_commits=true" alt="Estatísticas do GitHub de Gean Lacerda"/>
+<img src="https://github-stats-extended.vercel.app/api?username=geanplx&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8BA4D9&icon_color=8BA4D9&text_color=C9D1D9&rank_icon=github&include_all_commits=true" alt="Estatísticas do GitHub de Gean Lacerda"/>
 
 </td>
 <td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geanplx&layout=compact&hide_border=true&bg_color=0D1117&title_color=8BA4D9&text_color=C9D1D9&langs_count=6" alt="Linguagens mais utilizadas"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=geanplx&layout=compact&hide_border=true&bg_color=0D1117&title_color=8BA4D9&text_color=C9D1D9&langs_count=6" alt="Linguagens mais utilizadas"/>
 
 </td>
 </tr>
